@@ -13,13 +13,15 @@ Réduire une matrice en forme échelonnée réduite.
 
 Ce projet combine Streamlit pour l'interface utilisateur (frontend) et Flask pour la logique métier et le backend, offrant ainsi une application interactive, pédagogique et facilement accessible depuis un navigateur web.
 
-👨‍💻 Membres de l'Équipe
+
+👨‍💻 **Membres de l'Équipe**
 
 **Oumayma Khlif**
 
 **Eya Zouch**
 
 **Saba Kallel**
+
 
 
 
@@ -34,6 +36,8 @@ Ce projet combine Streamlit pour l'interface utilisateur (frontend) et Flask pou
 🖼️ Interface graphique conviviale avec visualisation directe des résultats.
 
 🧠 Backend robuste assurant des calculs précis et rapides.
+
+
 
 📦 **Installation et Lancement**
 
@@ -61,9 +65,13 @@ pip install -r requirements.txt
 **4. Lancer l'application avec Streamlit**
 streamlit run menu.py
 
+
+
 🌐 **Accès à l'Application**
 
 Une fois lancée, l’application sera accessible dans votre navigateur par défaut à l’adresse : http://localhost:8501
+
+
 
 💬 **Remarques**
 
