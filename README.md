@@ -1,6 +1,6 @@
 **Gauss-Jordan Solver**
 
-📌 **Description du Projet**
+📌 #Description du Projet**
 
 Ce projet met en œuvre la méthode de Gauss-Jordan afin de :
 
@@ -14,6 +14,7 @@ Réduire une matrice en forme échelonnée réduite.
 Ce projet combine Streamlit pour l'interface utilisateur (frontend) et Flask pour la logique métier et le backend, offrant ainsi une application interactive, pédagogique et facilement accessible depuis un navigateur web.
 
 👨‍💻 Membres de l'Équipe
+
 **Oumayma Khlif**
 
 **Eya Zouch**
@@ -48,16 +49,16 @@ Ouvrez un terminal, puis exécutez les commandes suivantes :
 bash
 Copier
 Modifier
-# 1. Cloner le dépôt GitHub
-git clone https://github.com/eyazouch/GaussJordanSolver
+**1. Cloner le dépôt GitHub**
+git clone https://github.com/OumaymaKhlif/GaussJordanSolver
 
-# 2. Accéder au dossier du projet
+**2. Accéder au dossier du projet**
 cd GaussJordanSolver
 
-# 3. Installer les dépendances nécessaires
+**3. Installer les dépendances nécessaires**
 pip install -r requirements.txt
 
-# 4. Lancer l'application avec Streamlit
+**4. Lancer l'application avec Streamlit**
 streamlit run menu.py
 
 🌐 **Accès à l'Application**
