@@ -1,6 +1,6 @@
 **Gauss-Jordan Solver**
 
-📌 #Description du Projet
+📌 **Description du Projet**
 
 Ce projet met en œuvre la méthode de Gauss-Jordan afin de :
 
